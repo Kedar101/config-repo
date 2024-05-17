@@ -1,2 +1,2 @@
-payment-service:
+payment_service:
   message: "Payment Service: Your payment is being processed."
